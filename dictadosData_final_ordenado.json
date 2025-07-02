@@ -1,0 +1,408 @@
+{
+  "primer_y_segundo_ciclo": {
+    "normas": {
+      "Mayúsculas": {
+        "explicacion": "",
+        "dictados": [
+          {
+            "titulo": "Dictado nº 1",
+            "texto": "Había una vez un pirata que tenía un loro y un barco. Con el barco navegaba por todos los mares y con el loro charlaba, porque su loro era un loro parlanchín.",
+            "autor": "Luis González Rodríguez",
+            "colegio": "Colegio Jarama. Mejorada del Campo."
+          },
+          {
+            "titulo": "Dictado nº 2",
+            "texto": "Enrique es un señor muy amable. María es una señora que está embarazada. Juan iba sentado en el autobús y le cedió el sitio a María. Ella, complacida, le dio las gracias y le regaló una sonrisa.",
+            "autor": "Luis González Rodríguez",
+            "colegio": "Colegio Jarama. Mejorada del Campo."
+          },
+          {
+            "titulo": "Dictado nº 3",
+            "texto": "Un torero tenía un perro. Al perro le gustaba perseguir ratones. El ratón Ramón le puso polvos de pica-pica en el hocico y el perro del torero Perico nunca más volvió a perseguir ratones.",
+            "autor": "Luis González Rodríguez",
+            "colegio": "Colegio Jarama. Mejorada del Campo."
+          },
+          {
+            "titulo": "Dictado nº 4",
+            "texto": "Hoy es lunes. Rita es amiga de Raúl. El ratón roe una rama rota. Las ranas croan en el río. La rama del rosal está rota. La raqueta de Ramón es roja. Rosa tiene un vestido roto. Roberto rompió el reloj de Raquel.",
+            "autor": "Custodia Núñez Redondo",
+            "colegio": "Colegio San José de Begoña. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 5",
+            "texto": "Paula mima a Pepe y al puma. Loli lee muy mal el mil. La paloma, el pulpo y la mula. Amalia lame la miel y el polo.",
+            "autor": "Antonio Fco. Cuadrado Aguilera",
+            "colegio": "Colegio Juan Gris. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 8",
+            "texto": "Benito tiene una bota, una bota de vino de uva. Alejo tiene en su choza cosas muy interesantes y extrañas: una guitarra, un xilófono, un pingüino disecado y unas llaves con forma de koala. Mauricio tiene una nieta, Carolina, muy inquieta y movida. El domingo pasado Mauricio fue a su casa para darle un regalo, era una botella con un líquido amarillo oscuro. El abuelo le dice que no beba, pero Carolina desobedece y se lo bebe todo, no deja nada y se pone mala. Su abuelo lo sabe y la lleva al hospital. La enfermera Rafaela le pone una inyección. Ahora tiene que estar en la cama, tomando jarabe de guisantes y aceite de algas viejas. Su abuelo la cuida y la mima.",
+            "autor": "Mª Dolores Asorey",
+            "colegio": "Colegio San Miguel. Navalagamella."
+          },
+          {
+            "titulo": "Dictado nº 9",
+            "texto": "La mula sale al sol. Lalo lame la miel. Teo pesa el tomate. La paloma pasea. Como queso y pan. Quique toma caldo. Quita la chaqueta y la falda de la cama. Anita y Dani toman helados de nata. Tengo gafas de sol. El gato y el ratón. La niña es pequeña. El zapato es azul.",
+            "autor": "Ana Rodríguez de Colmenares Rodríguez",
+            "colegio": "Colegio Aravaca. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 10",
+            "texto": "Mofeta, final, Sofía, fideos, fuente, fantasma, delfín, elefante, fiestas. El fantasma me dio un susto. Sofía tomó sopa de fideos. r e Luis está en la fiesta de mamá. P",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 11",
+            "texto": "Dominó, limonada, dado, dedo, pomada, espalda, diadema, molde, día, nido, nudo. De día sale el sol y salimos de paseo. A mi papá le duele el dedo y se da pomada. El delfín nada y salta todo el día.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 12",
+            "texto": "Lupa, polo, palo, paloma, pelo, loma, mula, muela, pomelo, melón. Pupi lame el polo. Mamá olió el pelo a Lola. Meli lió a Luis.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 13",
+            "texto": "Sopa, sapo, oso, suma, isla, pipas, mesa, soso, peso, pesa, pisa. Papá sale y pasea. Amelia pasa a la sala. Emilio pule la mesa.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 14",
+            "texto": "Pupa, pipa, popa, Pepe, pío, oía, pía, aúpa, pie. Pupi pía y pía. Papá aúpa a Pipo.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 15",
+            "texto": "Miau, mimo, mapa, amo, mima, mopa, Momo. Mamá ama a papá. Mamá mima a Pupi. Mi mamá me oía.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 16",
+            "texto": "Tela, tilo, lata, maleta, tapa, lote, tomate. El sapo sale y toma el sol. La sopa está sosa. r e Emilio toma tomate. P",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 17",
+            "texto": "Mono, nene, nana, nota, mona, peine, nata, animal, linterna, tulipán, lana, luna. Loli se pone una pamela. Papá tiene un peine. El saltamontes salta la mata.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 19",
+            "texto": "Cirilo come aceitunas. Cenicienta acude al palacio en una carroza. El zapatero cosió los zapatos rotos. Benito puso la ceniza del cigarro en el cenicero.",
+            "autor": "Antonio Francisco Cuadrado Aguilera",
+            "colegio": "Colegio Gerardo Diego. Parla."
+          },
+          {
+            "titulo": "Dictado nº 20",
+            "texto": "El osito es blanco. Sofía es mi amiga. Yo vivo en Madrid. Tengo un perro que se llama Pipo. El río que pasa por Madrid es el Manzanares.",
+            "autor": "Mercedes Hernández Aragoneses",
+            "colegio": "Colegio Giner de los Ríos. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 21",
+            "texto": "Ayer fui de excursión. El piragüista vio varias cigüeñas volando alto. En el frigorífico hay fruta y varios flanes. Bruno y Blanca leen un libro en la biblioteca. Bruno trajo unas flores. Pedro plancha la blusa. Miguel regaló un ramo de margaritas a su abuela Águeda. Miguel toca la guitarra. Como higos y guisantes.",
+            "autor": "Ana Rodríguez de Colmenares Rodríguez",
+            "colegio": "Colegio Aravaca. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 23",
+            "texto": "Elhombredel campamentosembrópatatasennoviembre.Cuandohizobuentiempo, seechóel saco al hombro y se puso un sombrero, buscó a Ambrosio para que lo acompañara al campo y recolec taron la siembra.",
+            "autor": "Manuela Lobo Molina",
+            "colegio": "Colegio Duque de Alba. Loeches."
+          },
+          {
+            "titulo": "Dictado nº 26",
+            "texto": "Juan estaba triste porque no encontraba a su perro. Se preguntaba: «¿Dónde estará Popi?». Al fin lo encontró durmiendo bajo el sofá. Juan exclamó: «¡Qué alegría!», y le despertó para jugar con él.",
+            "autor": "Beatriz Vegas Serrano",
+            "colegio": "Colegio Breogán. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 28",
+            "texto": "En primavera nacen muchas flores. Tengo una máquina de coser nueva. Mi padre pasa el plumero por los muebles. r e Antonia plancha la ropa arrugada. P",
+            "autor": "Pilar Becerra Montoya",
+            "colegio": "Colegio Vedruna. Madrid"
+          },
+          {
+            "titulo": "Dictado nº 29",
+            "texto": "A Alfredo le gustan mucho los plátanos. Miguel toca la guitarra en el colegio. Pedro juega con sus amigos en el recreo. Pon la ceniza en el cenicero.",
+            "autor": "María Veguillas Ortega",
+            "colegio": "Colegio Vedruna. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 30",
+            "texto": "El gato trepa al tejado. Yo voy a la frutería con mi mamá. La bruja Blasa viaja en su escoba. A Carlos le picó un mosquito en el brazo.",
+            "autor": "Lola Martín Carmona",
+            "colegio": "Colegio Vedruna. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 32",
+            "texto": "El pez nada en el mar. El perro ladra al gatito. Los osazos duermen. Celia se puso un lazo azul y un cinturón. Sara tiene una parra. Hay peces en la pecera y zorros en el bosque. La ardilla come piñones. Meriendo un bocadillo y un zumo de piña. Mi calle es pequeña.",
+            "autor": "Ana Rodríguez de Colmenares Rodríguez",
+            "colegio": "Colegio Aravaca. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 34",
+            "texto": "María cumple siete años. Su mamá compra una tarta de trufa y chocolate. Va a celebrar su cumple años con Marcos, Natalia, Patricia y su prima Cristina. Sopló una vez y apagó todas las velas. Sus amigos le cantaron «Cumpleaños feliz». r e",
+            "autor": "Cristina Sebastián Peña",
+            "colegio": "Colegio Asunción Cuestablanca. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 36",
+            "texto": "Greta se golpeó con el grifo. El ogro gruñía al gigante gritón. Gloria arregla la regla que se ha roto. La bruja viste una blusa blanca. Bruno mira la bruma desde el balcón.",
+            "autor": "Mª Elsa González Pérez / Mª José Venegas Vega",
+            "colegio": "Colegio Giner de los Ríos. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 40",
+            "texto": "Mi mamá se llama Zulema. Vivimos en Zamora en una casa de campo, donde cultivamos cerezas, naranjas, cebollas, patatas, ciruelas, zanahorias y calabazas. Cuando es época de recogida llevamos un cesto para traer las frutas y hortalizas a casa y preparar una rica cena. Yo ayudo a mi madre a r e pelar cebollas y ella nos prepara un gran puré de calabaza. De postre bebemos zumo de naranja con azúcar. P",
+            "autor": "Mª del Carmen Martínez Pozo",
+            "colegio": "Colegio El Parque. Rivas Vaciamadrid."
+          },
+          {
+            "titulo": "Dictado nº 43",
+            "texto": "Blas tiene los brazos muy blancos. En el campo siembro legumbres que empleo para hacer compotas. Hacemos empanadillas y echamos blancos y sabrosos champiñones. ¿Me cambias la comba para empezar el juego?",
+            "autor": "¡Qué error es escribir horror sin «hache» y qué horror es escribir error con «hache». Rosario Gómez Manzano",
+            "colegio": "Colegio Santa María. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 44",
+            "texto": "Paola es una niña que tiene siete años. Vive con su familia en Coslada, localidad de Madrid. Ella acude todas las mañanas al colegio. Saluda a su profesora Leticia y a sus compañeros: María, Andrea, Ruiz y Martín. Allí estudian y se divierten. Cuando termina el horario escolar, llega a su casa y da un beso a Fernando, su papá.",
+            "autor": "Mª del Pilar López Ruiz",
+            "colegio": "Colegio Hermanos Machado. Coslada."
+          },
+          {
+            "titulo": "Dictado nº 52",
+            "texto": "En diciembre es mi cumpleaños y voy a hacer una gran fiesta. Estarán todos mis compañeros de clase y lo vamos a pasar muy bien. Mi madre va a organizar una tómbola y tendremos muchos regalos. Vendrán payasos que nos van a entretener con juegos y nos enseñarán a tocar la zambomba, el tambor y la trompeta. ¡Es genial!",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 56",
+            "texto": "Este verano iré a un campamento en la playa. Me bañaré sin flotador porque ya sé nadar. Comeré mejillones y pulpo. Va a ser muy divertido.",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 57",
+            "texto": "Mi amiga Laura viene al colegio en la ruta. Llega un poco antes que yo y me guarda un sitio en la fila. Sofía se enfada porque ella también quiere ir en la ruta y llegar temprano.",
+            "autor": "Mª Carmen Olivares Benito",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 58",
+            "texto": "A Sergio le gustaría tener un perro pero a su madre le dan terror. Rafa es su hermano mayor y tambiénquiereuncachorro,perosondos contradosporque Ramón,quees supadre, tambiénopina que no.",
+            "autor": "Mª Carmen Olivares Benito",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 59",
+            "texto": "Las fresas son mi fruta preferida. Me gustan frescas, con azúcar o con nata. Mis padres las compran en el mercado central o en la frutería de Pedro.",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 60",
+            "texto": "Mi tía Charo me compró un chaquetón. Yo lloraba mucho porque era de un color chillón. Después me compró un chaleco de paño, que me duró muchos años, un bañador amarillo y un pantalón de pitillo.",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 61",
+            "texto": "Los zapatos de Zoraida son celestes y tienen un lazo azul. Los compró en el centro comercial, en la zapatería de Cecilio, que siempre cierra a las once para poder almorzar. r e",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 62",
+            "texto": "En la casa de campo había una oca y cuatro patos. El cuadro que pintó Carlos tenía un colorido muy intenso. Una culebra puede vivir hasta catorce años. Mi po Camilo se compró una camioneta de color claro. Cuando el montañero llegó a la cumbre montó su campamento y disfrutó de las vistas.",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 63",
+            "texto": "El martes jugué al corro con Raquel en el recreo. Después corrimos detrás de Ramón, se me rompió el zapato y me caí en la arena del patio.",
+            "autor": "Mª Carmen Olivares Benito",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 70",
+            "texto": "",
+            "autor": "Las amigas de Pedro son de Valencia. Durante las vacaciones visité el río Miño. Luis y su madre van a escalar el pico más alto de los montes Pirineos. Ayer fui con mi prima al centro de Madrid y paseamos por el parque del Buen Retiro. Mi libro favorito es Alicia en el País de las Maravillas. Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 79",
+            "texto": "El virrey de Sumaney es muy simpático. Hace que se respete la ley por eso yo estoy contento. Cuando hay fiesta, organizamos un convoy y echamos spray de serpentina al pasar. Lo pasamos muy bien en Sumaney.",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          }
+        ]
+      },
+      "Punto final": {
+        "explicacion": "",
+        "dictados": [
+          {
+            "titulo": "Dictado nº 13",
+            "texto": "Sopa, sapo, oso, suma, isla, pipas, mesa, soso, peso, pesa, pisa. Papá sale y pasea. Amelia pasa a la sala. Emilio pule la mesa.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 14",
+            "texto": "Pupa, pipa, popa, Pepe, pío, oía, pía, aúpa, pie. Pupi pía y pía. Papá aúpa a Pipo.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 15",
+            "texto": "Miau, mimo, mapa, amo, mima, mopa, Momo. Mamá ama a papá. Mamá mima a Pupi. Mi mamá me oía.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 16",
+            "texto": "Tela, tilo, lata, maleta, tapa, lote, tomate. El sapo sale y toma el sol. La sopa está sosa. r e Emilio toma tomate. P",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 17",
+            "texto": "Mono, nene, nana, nota, mona, peine, nata, animal, linterna, tulipán, lana, luna. Loli se pone una pamela. Papá tiene un peine. El saltamontes salta la mata.",
+            "autor": "María del Carmen Bravo Blanco",
+            "colegio": "Colegio Silvio Abad. San Sebastián de los Reyes."
+          },
+          {
+            "titulo": "Dictado nº 57",
+            "texto": "Mi amiga Laura viene al colegio en la ruta. Llega un poco antes que yo y me guarda un sitio en la fila. Sofía se enfada porque ella también quiere ir en la ruta y llegar temprano.",
+            "autor": "Mª Carmen Olivares Benito",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 59",
+            "texto": "Las fresas son mi fruta preferida. Me gustan frescas, con azúcar o con nata. Mis padres las compran en el mercado central o en la frutería de Pedro.",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 60",
+            "texto": "Mi tía Charo me compró un chaquetón. Yo lloraba mucho porque era de un color chillón. Después me compró un chaleco de paño, que me duró muchos años, un bañador amarillo y un pantalón de pitillo.",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 61",
+            "texto": "Los zapatos de Zoraida son celestes y tienen un lazo azul. Los compró en el centro comercial, en la zapatería de Cecilio, que siempre cierra a las once para poder almorzar. r e",
+            "autor": "Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          },
+          {
+            "titulo": "Dictado nº 62",
+            "texto": "En la casa de campo había una oca y cuatro patos. El cuadro que pintó Carlos tenía un colorido muy intenso. Una culebra puede vivir hasta catorce años. Mi po Camilo se compró una camioneta de color claro. Cuando el montañero llegó a la cumbre montó su campamento y disfrutó de las vistas.",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 70",
+            "texto": "",
+            "autor": "Las amigas de Pedro son de Valencia. Durante las vacaciones visité el río Miño. Luis y su madre van a escalar el pico más alto de los montes Pirineos. Ayer fui con mi prima al centro de Madrid y paseamos por el parque del Buen Retiro. Mi libro favorito es Alicia en el País de las Maravillas. Mª Dolores Rivas Mena",
+            "colegio": "Colegio La Cañada. Fuenlabrada."
+          }
+        ]
+      },
+      "Coma en enumeraciones: 40, 53–54, 72, 80": {
+        "explicacion": "",
+        "dictados": [
+          {
+            "titulo": "Dictado nº 81",
+            "texto": "ME PRESENTO: Me llamo Fátima Abdí. Vivo en la calle Duquesa de Tamames nº 9 – 2º A. Distrito – Carabanchel Alto. Ciudad – Madrid. Estudio en el colegio República Dominicana. Tengo 9 años. Lo que más me gusta es el inglés.",
+            "autor": "Mª Regina Ramos Paniagua",
+            "colegio": "Colegio República Dominicana. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 82",
+            "texto": "g e S El coche de bomberos tocaba la campana cuando se acercaba al campo. Mientras, el ciempiés huía empujado por el calor del fuego. Las llamas empezaban a propagarse cuando de repente cambió el tiempo y empezó a oscurecer. Las nubes acompañadas de lluvia ayudaron a los bomberos a apagar el fuego.",
+            "autor": "Ángel García Bujalance",
+            "colegio": "Colegio Blas de Otero. Alcorcón."
+          },
+          {
+            "titulo": "Dictado nº 89",
+            "texto": "Mi hermano y su amigo paseaban al perrazo que tenía mi tío. Mi tío, que era conductor de autobús, estaba convaleciente en casa, ya que se cayó al tropezarse a causa del mal estado de su zapatilla. Gracias a la medicina se curó pronto. Dentro de poco podrá volver a conducir su autobús y a trans portar a los pasajeros hacia sus sueños.",
+            "autor": "Myriam Garrido Torres",
+            "colegio": "Colegio Giner de los Ríos. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 95",
+            "texto": "g e LA VISITA DE ENRIQUE S Raquel está contentísima. Esta mañana ha recibido una postal de su amigo Enrique desde el pueblo de Risco. En la postal se ven tierras, la torre de la iglesia y un río. Raquel sonríe porque Enrique vendrá pronto a visitarla.",
+            "autor": "Elisa Folch Capella",
+            "colegio": "Colegio Miguel Hernández. Alcobendas."
+          },
+          {
+            "titulo": "Dictado nº 102",
+            "texto": "En el zoo de Madrid encontramos, rinocerontes, cebras y águilas en jaulas, esperando su comida. La alimentación de los animales es importante. Los niños de tercero fuimos acompañados de algunos papás a visitar las aves exóticas del zoo pequeño. El padre de Andrés nos propuso jugar a la comba en el tiempo de descanso. Cuando llegó la hora de vuelta al colegio, montamos en el autobús muy felices por haber realizado esta actividad.",
+            "autor": "Al día siguiente recordamos lo que habíamos visto y nos planteamos hacer un trabajo en grupo. Ramona Godoy, Mª Paz del Pozo y Mª Ángeles Zamora",
+            "colegio": "Colegio Verdruna. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 107",
+            "texto": "n u g Era primavera. En el pueblo, la cigüeña había hecho su nido en la torre del campanario. e Carlos, Beatriz y Rosa cogían flores en el jardín. Los claveles eran sus favoritas. Un perro ladraba a S lo lejos.",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 111",
+            "texto": "Ayer fui a Toledo con mi hermana Marta y mis primos Alberto y Toni. Estuvimos contemplando el río Tajo. Un afluente del Tajo, el Manzanares, pasa por Madrid. El domingo pasado vimos el Acueducto de Segovia. Nos acompañó la Sra. García. El próximo sábado iremos de excursión a la Sierra de Gredos, con nuestros profesores D. Luis y Dª Elvira.",
+            "autor": "Emilia Bermejo González",
+            "colegio": "Colegio Amador de los Ríos. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 115",
+            "texto": "Sonó la campana. Miguel y Clara salieron al campo de deportes para hacer un descanso durante el recreo. Faltabandiez minutos cuandose encontraronconsusamiguitos Juany Ana. Recordabanlobienque lo habían pasado en la salida al albergue de Cercedilla.",
+            "autor": "Mientras cambiaban impresiones, sonó de nuevo la campana y volvieron de nuevo a clase. José R. Fernández-Vigón, Leoncia Barba y Maribel Herrero",
+            "colegio": "Colegio Vedruna. Madrid."
+          },
+          {
+            "titulo": "Dictado nº 126",
+            "texto": "Los nacidos en Huelva se llaman onubenses. La provincia de Cáceres tiene bellos monumentos históricos. El oso panda se alimenta de bambú. En clase hay varios alumnos extranjeros. El agua de lluvia es necesaria para el campo. El vaquero está callado mirando su cayado. Hoy ha estudiado los adverbios y preposiciones. Mi piso tiene una hipoteca muy alta.",
+            "autor": "Antonia Dominguez Bernal",
+            "colegio": "Colegio Sta. Margarita Mª de Alacoque. Getafe."
+          },
+          {
+            "titulo": "Dictado nº 130",
+            "texto": "Alicia cogió a su gatito en los brazos y atravesó un campo lleno de flores silvestres. Le encantaba pasear entre las flores, escuchar el canto de los pájaros y mirar bellas mariposas que revoloteaban a su alrededor. Abrazó a Dino, distraída en su maravilloso sueño.",
+            "autor": "A Alicia le gustaba imaginar un mundo muy particular en el que hasta las flores pudieran hablar. Mª Concepción Plaza Bolaños",
+            "colegio": "Colegio Aravaca. Madrid.."
+          },
+          {
+            "titulo": "Dictado nº 132",
+            "texto": "Mi amiga María no es madrileña, aunque vamos juntas al colegio Villa de Madrid, en el barrio de LasPalomas. A María le encantanlos animales. Tieneunperro que se llama Napoleónyunloro que se llama Florito. Cuando va a ver a sus abuelos a la ciudad, siempre la acompañan sus dos mascotas. ¡Son un trío divertido de ver! Ana Isabel Coco Martín",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 133",
+            "texto": "Nieva. El búho alza el vuelo. Bárbara lo sigue por el sendero blanco. Para distraerse, mira la nube cita blanca que sale de su boca. Siempre ocurre eso cuando hace frío. Sigue andando. De pronto, una sombra se desliza entre los troncos. Es una silueta negra con dos orejas puntiagudas, un largo hocico y ojos brillantes. Es un lobo hambriento.",
+            "autor": "",
+            "colegio": ""
+          },
+          {
+            "titulo": "Dictado nº 138",
+            "texto": "En una ciudad llamada Guadalajara vive un niño llamado Felipe. Tiene un perro de nombre Nube porque es de color gris. Su colegio es muy grande. Va a la clase de tercero y su profesora es doña Carmen. El colegio se llama Rafael Alberti y está cerca del río Henares.",
+            "autor": "José Luis de Perosanz Almajano",
+            "colegio": "Colegio Beatriz Galindo. Alcalá de Henares."
+          }
+        ]
+      }
+    }
+  },
+  "tercer_ciclo": {
+    "normas": {}
+  }
+}
